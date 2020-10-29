@@ -3,7 +3,7 @@
 # Blog-vuex_alternative
 
 This repo is referenced by this [article].
-If you want to show the code version with vuex you can visit this branch: [with-vuex](https://github.com/sogilis/Blog-vuex_alternative/tree/with-vuex)
+If you want to show the code version without vuex you can visit this branch: [master](https://github.com/sogilis/Blog-vuex_alternative/tree/master)
 
 ## Project setup
 ```
