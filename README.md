@@ -2,7 +2,7 @@
 
 # Blog-vuex_alternative
 
-This repo is referenced by this [article].
+This repo is referenced by this [article](https://blog.sogilis.fr/posts/2020-11-06-vuex-alternative/).
 If you want to show the code version with vuex you can visit this branch: [with-vuex](https://github.com/sogilis/Blog-vuex_alternative/tree/with-vuex)
 
 ## Project setup
